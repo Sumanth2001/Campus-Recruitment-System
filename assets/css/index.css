@@ -1,0 +1,112 @@
+html
+          {
+            scroll-behavior: smooth;
+            background-color: rgb(247, 247, 247);
+          }
+          #submit
+          {
+            margin-left: 10%;
+            width: 130px;
+            border-radius: 4px;
+            padding: 10px;
+            color: black;
+            background-color: rgba(243, 248, 253, 0.664);
+          }
+          #btp
+          {
+            font-size: 40px;
+            margin-right: 0%;
+            margin-left: 100%;
+          }
+          #btp:hover
+          {
+            cursor: pointer;
+          }
+          #submit:hover
+          {
+            background-color: rgb(235, 235, 235);
+          }
+          .reviews
+          {
+            margin: 0%;
+            margin-right: 0%;
+            padding-right: 10%;
+            padding-left: 13%;
+            padding-top: 40px;
+            background-color:;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 22px;
+            font: bold;
+          }
+            .navbar
+            {
+              background-color: rgb(247, 231, 201);
+            }
+            .nav
+            {
+                float: right;
+            }
+            .points.p
+            {
+              t;
+            }
+            body
+            {
+                font-family: 'Times New Roman', Times, serif;
+                scroll-behavior: smooth;
+
+            }
+            a
+            {
+              color: orange;
+            }
+            .dropdown:hover>.dropdown-menu {
+             display: block;
+            }
+            .nav
+            {
+              background-color: ;
+            }
+            .nav-link:hover{
+              color: orangered;
+            }
+            H4{
+              font-family: Verdana, Geneva, Tahoma, sans-serif;
+              
+            }
+            p{
+            margin: 10px;  
+            font-weight: 400;
+            font-size: 20px;
+            }
+            .input{
+              width: 350px;
+              padding: 10px;
+            }
+            .gu
+            {
+              margin-top: 40px;
+            }
+            .cont
+            {
+              margin-top: 50px;
+            }
+            #about
+            {
+              padding-bottom: 20px;
+              padding-top: 15px;
+              padding-left: 200px;
+              padding-right: 200px;
+              color: black;
+              margin-top: 50px;
+              margin-left: 0%;
+              margin-right: 0%;
+              background-color: ;
+            }
+            .form-control
+            {
+              padding-top: 80px;
+              padding-left: 20%;
+              background-color: rgba(236, 236, 236, 0.274);
+            }
+            

@@ -1,0 +1,70 @@
+body
+{
+    background-image: url(/images/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+.login
+{
+    width: 700px;
+    height: 900px;
+    background-color: rgba(254, 254, 255, 0);
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-left: 30px;
+    margin-bottom: 20%;
+    border-radius: 6px;
+}
+.details{
+    opacity: 1;
+    width: 350px;
+    padding: 15px;
+    border-radius: 4px;
+}
+.form{
+    padding-left: 165px;
+}
+label
+{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.butn
+{
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-left: 120px;
+    width: 130px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: rgba(255, 101, 101, 0.836);
+}
+.l{
+    color: white;
+    font-size: 30px;
+    padding-top: 18px;
+    padding-left: 50px;
+}
+.forgot
+{
+    color: white;
+    font-size: 18px;
+}
+#error
+{
+    color: white;
+    font-size: 15px;
+}
+#succ{
+    color:white;
+    font-size:15px;
+}
+.btn:hover
+{
+    cursor: pointer;
+background-color: rgb(255, 221, 221);
+}

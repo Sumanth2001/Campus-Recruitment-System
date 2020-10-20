@@ -1,0 +1,16 @@
+table{
+    width: 80%;
+}
+tr,th,td{
+    font-size: medium;
+    text-align: center;
+    padding: 60px;
+}
+th{
+    font-size: x-large;
+    margin-left: 40px;
+}
+.jobs
+{
+    padding-left: 50px;
+}
